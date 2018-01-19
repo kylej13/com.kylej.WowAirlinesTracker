@@ -1,0 +1,166 @@
+[
+	{
+		"origin": "ALC",
+		"origin_desc": "Alicante"
+	},
+	{
+		"origin": "AMS",
+		"origin_desc": "Amsterdam"
+	},
+	{
+		"origin": "BCN",
+		"origin_desc": "Barcelona"
+	},
+	{
+		"origin": "SXF",
+		"origin_desc": "Berlin"
+	},
+	{
+		"origin": "BOS",
+		"origin_desc": "Boston"
+	},
+	{
+		"origin": "BRU",
+		"origin_desc": "Brussels"
+	},
+	{
+		"origin": "ORD",
+		"origin_desc": "Chicago"
+	},
+	{
+		"origin": "CVG",
+		"origin_desc": "Cincinnati"
+	},
+	{
+		"origin": "CLE",
+		"origin_desc": "Cleveland"
+	},
+	{
+		"origin": "CPH",
+		"origin_desc": "Copenhagen"
+	},
+	{
+		"origin": "DFW",
+		"origin_desc": "Dallas"
+	},
+	{
+		"origin": "DTW",
+		"origin_desc": "Detroit"
+	},
+	{
+		"origin": "DUB",
+		"origin_desc": "Dublin"
+	},
+	{
+		"origin": "DUS",
+		"origin_desc": "Düsseldorf"
+	},
+	{
+		"origin": "EDI",
+		"origin_desc": "Edinburgh"
+	},
+	{
+		"origin": "FRA",
+		"origin_desc": "Frankfurt"
+	},
+	{
+		"origin": "LPA",
+		"origin_desc": "Gran Canaria"
+	},
+	{
+		"origin": "LGW",
+		"origin_desc": "London Gatwick"
+	},
+	{
+		"origin": "STN",
+		"origin_desc": "London Stansted"
+	},
+	{
+		"origin": "LAX",
+		"origin_desc": "Los Angeles"
+	},
+	{
+		"origin": "LYS",
+		"origin_desc": "Lyon"
+	},
+	{
+		"origin": "MIA",
+		"origin_desc": "Miami"
+	},
+	{
+		"origin": "MXP",
+		"origin_desc": "Milano"
+	},
+	{
+		"origin": "YUL",
+		"origin_desc": "Montréal"
+	},
+	{
+		"origin": "MOW",
+		"origin_desc": "Moscow"
+	},
+	{
+		"origin": "EWR",
+		"origin_desc": "New York"
+	},
+	{
+		"origin": "JFK",
+		"origin_desc": "New York"
+	},
+	{
+		"origin": "CDG",
+		"origin_desc": "Paris"
+	},
+	{
+		"origin": "PIT",
+		"origin_desc": "Pittsburgh"
+	},
+	{
+		"origin": "KEF",
+		"origin_desc": "Reykjavik"
+	},
+	{
+		"origin": "ROV",
+		"origin_desc": "Rostov-on-Don"
+	},
+	{
+		"origin": "SZG",
+		"origin_desc": "Salzburg"
+	},
+	{
+		"origin": "SFO",
+		"origin_desc": "San Francisco"
+	},
+	{
+		"origin": "STL",
+		"origin_desc": "St. Louis"
+	},
+	{
+		"origin": "ARN",
+		"origin_desc": "Stockholm"
+	},
+	{
+		"origin": "TLV",
+		"origin_desc": "Tel Aviv"
+	},
+	{
+		"origin": "TFS",
+		"origin_desc": "Tenerife"
+	},
+	{
+		"origin": "YYZ",
+		"origin_desc": "Toronto"
+	},
+	{
+		"origin": "VOG",
+		"origin_desc": "Volgograd"
+	},
+	{
+		"origin": "WAW",
+		"origin_desc": "Warsaw"
+	},
+	{
+		"origin": "BWI",
+		"origin_desc": "Washington, D.C."
+	}
+]
